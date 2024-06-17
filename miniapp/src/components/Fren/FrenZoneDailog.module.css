@@ -1,0 +1,100 @@
+.fren-zone-content {
+  text-align: left;
+}
+
+.invite-section {
+  margin-bottom: 20px;
+}
+
+.invite-section h3 {
+  margin: 0 0 10px;
+  font-size: 1.2rem;
+}
+
+.invite-rule .rule {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+  background: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.cumulative-invitation h3 {
+  margin: 0 0 10px;
+  font-size: 1.2rem;
+}
+
+.rewards {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.reward {
+  text-align: center;
+  background: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.reward.claimed {
+  background: #d4ffd4;
+}
+
+.reward-icon {
+  position: relative;
+}
+
+.reward-icon img {
+  width: 30px;
+  height: 30px;
+}
+
+.reward-info {
+  margin-top: 10px;
+}
+
+.reward-count {
+  font-size: 1.2rem;
+}
+
+.reward-amount {
+  margin-top: 5px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.invitations-count {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.current-invitations {
+  font-size: 2rem;
+}
+
+.invite-button {
+  background-color: #ffcc00;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.invite-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,73 @@
+.chart-content {
+  text-align: center;
+}
+
+.leaders-section {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.leader {
+  text-align: center;
+}
+
+.rank {
+  position: relative;
+  display: inline-block;
+}
+
+.rank img {
+  width: 60px;
+  height: 60px;
+}
+
+.score {
+  margin-top: 10px;
+  font-size: 1.2rem;
+}
+
+.others-section {
+  text-align: left;
+}
+
+.others-section .leader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  background: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.others-section .rank {
+  flex: 1;
+}
+
+.others-section .icon img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.others-section .score {
+  flex: 2;
+  text-align: right;
+}
+
+.rank-1 img {
+  width: 80px;
+  height: 80px;
+}
+
+.rank-2 img {
+  width: 70px;
+  height: 70px;
+}
+
+.rank-3 img {
+  width: 60px;
+  height: 60px;
+}

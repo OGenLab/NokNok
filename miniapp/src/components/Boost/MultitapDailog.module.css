@@ -1,0 +1,24 @@
+.multitap-dailog-wrap {
+  display: flex;
+  flex-direction: column;
+}
+.boost-tip-title {
+  display: flex;
+  justify-content: center;
+}
+.level-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.current-level,
+.next-level {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.arrow {
+  font-size: 1.5rem;
+}

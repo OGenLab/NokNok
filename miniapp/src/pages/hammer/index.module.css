@@ -1,0 +1,22 @@
+.hammer-page-wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hammer-title {
+  display: flex;
+  justify-content: center;
+  width: 338px;
+  height: 22px;
+  margin-top: 12px;
+}
+
+.hammer-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
