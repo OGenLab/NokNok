@@ -1,0 +1,5 @@
+bin
+logs
+_output
+**/node_modules
+
