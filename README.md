@@ -1,6 +1,6 @@
-# NokNok: Whack-a-Mole Web3 Game 🎮🔨
+# NokNok: A Web3 Click Game 🎮🔨
 
-Welcome to **NokNok**, an innovative Web3-based whack-a-mole game that combines the nostalgic fun of classic arcade games with the cutting-edge technology of blockchain and NFTs. Developed by a talented team based in Dubai, NokNok offers a unique and rewarding gaming experience for both traditional gamers and crypto enthusiasts.
+Welcome to **NokNok**, an innovative Web3-based clicker game that combines the nostalgic fun of classic arcade games with the cutting-edge technology of blockchain and NFTs. Developed by a talented team based in Dubai, NokNok offers a unique and rewarding gaming experience for both traditional gamers and crypto enthusiasts.
 
 ## Table of Contents 📚
 
@@ -14,7 +14,7 @@ Welcome to **NokNok**, an innovative Web3-based whack-a-mole game that combines 
 
 ## Introduction 🌟
 
-NokNok is a play-to-earn game where players use various hammer skins to whack moles and collect Hammer coins ($HAMMER), the game's native cryptocurrency. With seasonal content, NFT integration, and DeFi elements, NokNok aims to create a vibrant and engaged community.
+NokNok is a play-to-earn game where players use various hammer skins to knock meme moles and collect Hammer coins ($HAMMER), the game's native cryptocurrency. With seasonal content, NFT integration, and DeFi elements, NokNok aims to create a vibrant and engaged community.
 
 ## Features ✨
 
@@ -46,13 +46,13 @@ NokNok is a play-to-earn game where players use various hammer skins to whack mo
 ### Stamina 💪
 
 - **Daily Stamina Cap:** Players have a stamina cap of 80 per day (adjustable parameter).
-  - Stamina limits the number of times players can whack moles to earn coins. Each whack consumes stamina, even if it misses the mole.
-  - When stamina is depleted, only the number of successful whacks is recorded for leaderboard purposes, but no coins are awarded.
+  - Stamina limits the number of times players can knock meme moles to earn coins. Each knock consumes stamina, even if it misses the mole.
+  - When stamina is depleted, only the number of successful knocks is recorded for leaderboard purposes, but no coins are awarded.
 - **Stamina Recovery:** Stamina resets to the cap every 24 hours.
 
 ### Coin Rewards 💰
 
-- Players earn 1 to 5 Hammer coins for each successful whack.
+- Players earn 1 to 5 Hammer coins for each successful knock.
 - Inviting friends to join the game grants additional Hammer coins.
 
 ## Tokenomics 💸
@@ -98,4 +98,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
  Twitter: @TonNok_AI  🐦
  Telegram Bot: @TonNokBot📱
 
-Happy whacking! 🎉
+Happy NokNok! 🎉
